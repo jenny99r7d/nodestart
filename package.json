@@ -1,0 +1,22 @@
+{
+  "name": "nodestart",
+  "version": "0.0.0",
+  "description": "Initial node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jenny99r7d/nodestart.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jenny99r7d/nodestart/issues"
+  },
+  "dependencies": {
+    "mocha": "*",
+    "chai": "*"
+  }
+}
